@@ -1,0 +1,127 @@
+{
+  "starters": [
+    {
+      "name": "Magnam Tiste",
+      "img": "assets/img/menu/menu-item-1.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$5.95"
+    },
+    {
+      "name": "Aut Luia",
+      "img": "assets/img/menu/menu-item-2.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$14.95"
+    },
+    {
+      "name": "Est Eligendi",
+      "img": "assets/img/menu/menu-item-3.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$8.95"
+    },
+    {
+      "name": "Eos Luibusdam",
+      "img": "assets/img/menu/menu-item-4.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$12.95"
+    },
+    {
+      "name": "Eos Luibusdam",
+      "img": "assets/img/menu/menu-item-5.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$12.95"
+    }
+  ],
+
+  "breakfast": [
+    {
+      "name": "Magnam Tiste",
+      "img": "assets/img/menu/menu-item-1.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$5.95"
+    },
+    {
+      "name": "Laboriosam Direva",
+      "img": "assets/img/menu/menu-item-6.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$9.95"
+    }
+  ],
+
+  "lunch": [
+    {
+      "name": "Magnam Tiste",
+      "img": "assets/img/menu/menu-item-1.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$5.95"
+    },
+    {
+      "name": "Aut Luia",
+      "img": "assets/img/menu/menu-item-2.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$14.95"
+    },
+    {
+      "name": "Est Eligendi",
+      "img": "assets/img/menu/menu-item-3.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$8.95"
+    },
+    {
+      "name": "Eos Luibusdam",
+      "img": "assets/img/menu/menu-item-4.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$12.95"
+    },
+    {
+      "name": "Eos Luibusdam",
+      "img": "assets/img/menu/menu-item-5.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$12.95"
+    },
+    {
+      "name": "Laboriosam Direva",
+      "img": "assets/img/menu/menu-item-6.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$9.95"
+    }
+  ],
+
+  "dinner": [
+    {
+      "name": "Magnam Tiste",
+      "img": "assets/img/menu/menu-item-1.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$5.95"
+    },
+    {
+      "name": "Aut Luia",
+      "img": "assets/img/menu/menu-item-2.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$14.95"
+    },
+    {
+      "name": "Est Eligendi",
+      "img": "assets/img/menu/menu-item-3.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$8.95"
+    },
+    {
+      "name": "Eos Luibusdam",
+      "img": "assets/img/menu/menu-item-4.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$12.95"
+    },
+    {
+      "name": "Eos Luibusdam",
+      "img": "assets/img/menu/menu-item-5.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$12.95"
+    },
+    {
+      "name": "Laboriosam Direva",
+      "img": "assets/img/menu/menu-item-6.png",
+      "ingredients": "Lorem, deren, trataro, filede, nerada",
+      "price": "$9.95"
+    }
+  ]
+}
